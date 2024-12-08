@@ -10,4 +10,3 @@ This repository contains my solutions for [Advent of Code](https://adventofcode.
 
 ## Acknowledgements
 - [Advent of Code](https://adventofcode.com/) by Eric Wastl
-```
